@@ -1,8 +1,5 @@
 Hello mate.
 
-
-Now making master branch changes I guess.
-Hello again :).
+Now I am doing the same stuff with git bash.
 
 
-What a mess, omg.
