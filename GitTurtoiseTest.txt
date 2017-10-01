@@ -3,3 +3,8 @@ Hello mate.
 Now I am doing the same stuff with git bash.
 
 
+-----------------------------------
+
+Trying to merge from gitbash.
+
+
