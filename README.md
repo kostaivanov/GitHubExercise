@@ -9,3 +9,6 @@ Again making changes !
 
 Okey i am resolving this by keeping both changes and adding the 3rd one .
 
+--------------------------------------------------------------------------------
+
+GitBash is working here now.
